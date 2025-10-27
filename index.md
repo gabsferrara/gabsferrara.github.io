@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: custom
 title: "Início"
 ---
 
