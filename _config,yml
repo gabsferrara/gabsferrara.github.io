@@ -4,9 +4,6 @@ description: "Pensamentos sobre Golang, arquitetura e engenharia de software."
 baseurl: ""
 url: "https://gabsferrara.github.io"
 
-
-
-
 author:
   name: "Gabriel Ferrara"
   email: "seuemail@exemplo.com"
