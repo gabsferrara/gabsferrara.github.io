@@ -17,5 +17,7 @@ header_pages:
 show_excerpts: true
 timezone: America/Sao_Paulo
 
+# Força o tema a usar seu header customizado
 include:
   - _includes/head-custom.html
+  - _includes/header.html
