@@ -27,8 +27,8 @@ Meu foco é ser direto ao ponto, trazendo conteúdo útil pra quem está na áre
 
 ## ✨ Um pouco sobre mim
 
-Sou **Gabriel Ferrara**, desenvolvedor na **Shopee**, onde atuo com **microsserviços**, **integrações complexas**, **automação** e **boas práticas de engenharia**.  
-Participo de iniciativas de **mentoria**, gosto de ensinar e acredito que **compartilhar conhecimento é a melhor forma de aprender**.
+Sou Gabriel Ferrara, desenvolvedor no **Mercado Livre**, tambem atuei em empresas como Shopee e Telefonica - Vivo, tendo vivencia com microsserviços, integrações complexas, automação e boas práticas de engenharia.
+Participo de iniciativas de mentoria através do [ADP-list](https://adplist.org/mentors/gabriel-ferrara), gosto de ensinar e acredito que compartilhar conhecimento é a melhor forma de aprender.
 
 ---
 
