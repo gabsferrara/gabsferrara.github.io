@@ -3,13 +3,9 @@ layout: default
 title: "Início"
 ---
 
-Bem-vindo(a) ao meu blog técnico 👋  
-
-Aqui compartilho aprendizados sobre **Golang**, **arquitetura de software**, **boas práticas** e **experimentos técnicos** do dia a dia.  
-
 # 👋 Bem-vindo ao meu blog técnico
 
-Aqui compartilho aprendizados sobre **Golang**, **arquitetura de software** e **boas práticas de engenharia**.  
+Aqui compartilho aprendizados sobre **Golang**, **arquitetura de software** e **boas práticas de engenharia**.
 
 Sinta-se à vontade para explorar os posts e deixar feedback!
 
