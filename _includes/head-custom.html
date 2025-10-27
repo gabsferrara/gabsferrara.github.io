@@ -92,24 +92,24 @@
 </style>
 
 <script>
-  // Dark mode automático e alternável
-  const currentTheme = localStorage.getItem("theme");
-  if (currentTheme === "dark" || (!currentTheme && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
-    document.documentElement.setAttribute("data-theme", "dark");
-  }
+  document.addEventListener('DOMContentLoaded', () => {
+    const theme = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', theme);
 
-  window.addEventListener("DOMContentLoaded", () => {
-    const btn = document.createElement("div");
-    btn.textContent = "🌓";
-    btn.className = "theme-toggle";
-    btn.onclick = () => {
-      const theme = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
-      document.documentElement.setAttribute("data-theme", theme);
-      localStorage.setItem("theme", theme);
-    };
-    document.body.appendChild(btn);
+    const toggle = document.createElement('button');
+    toggle.textContent = theme === 'light' ? '🌙' : '☀️';
+    toggle.classList.add('theme-toggle');
+    toggle.addEventListener('click', () => {
+      const newTheme = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      toggle.textContent = newTheme === 'light' ? '🌙' : '☀️';
+    });
+
+    document.body.appendChild(toggle);
   });
 </script>
+
 
 <!-- SEO e metatags sociais -->
 <meta name="description" content="Blog técnico de Gabriel Ferrara — Golang, arquitetura e boas práticas.">
