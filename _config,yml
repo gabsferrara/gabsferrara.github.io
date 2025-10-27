@@ -1,0 +1,23 @@
+theme: minima
+title: 'commit -m "ferrara thoughts"'
+description: "Pensamentos sobre Golang, arquitetura e engenharia de software."
+baseurl: ""
+url: "https://gabsferrara.github.io"
+
+
+
+
+author:
+  name: "Gabriel Ferrara"
+  email: "seuemail@exemplo.com"
+
+# Links de navegação no topo
+header_pages:
+  - about.md
+
+# Opções extras
+show_excerpts: true
+timezone: America/Sao_Paulo
+
+include:
+  - _includes/head-custom.html
