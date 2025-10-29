@@ -1,5 +1,5 @@
 theme: minima
-title: 'commit -m "ferrara thoughts"'
+title: "commit -m 'ferrara thoughts'"
 description: "Pensamentos sobre Golang, arquitetura e engenharia de software."
 baseurl: ""
 url: "https://gabsferrara.github.io"

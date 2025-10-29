@@ -1,0 +1,56 @@
+/* Grid layout para posts */
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* Estilo do card */
+.post-card {
+  display: block;
+  background-color: var(--bg);
+  border: 2px solid rgba(255,255,255,0.1);
+  border-radius: 14px;
+  padding: 20px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Tema escuro */
+[data-theme="dark"] .post-card {
+  background-color: #161b22;
+  border-color: rgba(255,255,255,0.2);
+}
+
+/* Hover states */
+.post-card:hover {
+  background-color: #ffffff;
+  color: #0b1116;
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Elementos internos do card */
+.post-card .post-title {
+  color: var(--link);
+  margin: 0 0 0.5rem 0;
+  font-size: 1.2rem;
+}
+
+.post-card:hover .post-title {
+  color: var(--link);
+}
+
+.post-card .post-excerpt {
+  color: inherit;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.post-card .post-meta {
+  color: var(--muted);
+  font-size: 0.875rem;
+  opacity: 0.8;
+}
