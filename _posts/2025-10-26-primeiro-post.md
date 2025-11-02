@@ -27,18 +27,6 @@ Meu foco é ser direto ao ponto, trazendo conteúdo útil pra quem está na áre
 
 ## ✨ Um pouco sobre mim
 
-Sou Gabriel Ferrara, desenvolvedor no **Mercado Livre**, tambem atuei em empresas como Shopee e Telefonica - Vivo, tendo vivencia com microsserviços, integrações complexas, automação e boas práticas de engenharia.
-Participo de iniciativas de mentoria através do [ADP-list](https://adplist.org/mentors/gabriel-ferrara), gosto de ensinar e acredito que compartilhar conhecimento é a melhor forma de aprender.
+Sou Gabriel Ferrara, atualmente desenvolvedor no **Mercado Livre**, tambem atuei em empresas como Shopee e Vivo - Telefonica, tendo vivencia com microsserviços, integrações complexas, automação e boas práticas de engenharia.
+Participo de iniciativas de mentoria através do [ADP-list](https://adplist.org/mentors/gabriel-ferrara), gosto de ensinar e acredito que compartilhar conhecimento é a melhor forma de aprender, estou direto nos eventos da [Golang SP](https://www.meetup.com/golangbr) se quiser trocar uma ideia pessoalmente é um bom local para me encontrar.
 
----
-
-## 💡 Próximos passos
-
-Nos próximos posts, quero falar sobre:
-
-- Como estruturar um projeto Go escalável  
-- Padrões que uso em microsserviços  
-- Como criar POCs eficientes  
-- E outras reflexões do dia a dia no desenvolvimento  
-
-Se quiser acompanhar, me siga no [LinkedIn](https://www.linkedin.com/in/gabsferrara) — e fique à vontade para sugerir temas! 🚀
