@@ -29,4 +29,3 @@ Meu foco é ser direto ao ponto, trazendo conteúdo útil pra quem está na áre
 
 Sou Gabriel Ferrara, atualmente desenvolvedor no **Mercado Livre**, tambem atuei em empresas como Shopee e Vivo - Telefonica, tendo vivencia com microsserviços, integrações complexas, automação e boas práticas de engenharia.
 Participo de iniciativas de mentoria através do [ADP-list](https://adplist.org/mentors/gabriel-ferrara), gosto de ensinar e acredito que compartilhar conhecimento é a melhor forma de aprender, estou direto nos eventos da [Golang SP](https://www.meetup.com/golangbr) se quiser trocar uma ideia pessoalmente é um bom local para me encontrar.
-
